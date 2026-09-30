@@ -1,0 +1,12 @@
+test_cash_reconciles_each_quarter (test_model.ForecastTests.test_cash_reconciles_each_quarter) ... ok
+test_closed_delivery_rejected (test_model.ForecastTests.test_closed_delivery_rejected) ... ok
+test_horizon_collects_everything (test_model.ForecastTests.test_horizon_collects_everything) ... ok
+test_invalid_data (test_model.ForecastTests.test_invalid_data) ... ok
+test_pure_delay_preserves_total_value (test_model.ForecastTests.test_pure_delay_preserves_total_value) ... ok
+test_q1_actuals_frozen (test_model.ForecastTests.test_q1_actuals_frozen) ... ok
+test_variance_fully_explained (test_model.ForecastTests.test_variance_fully_explained) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.005s
+
+OK

@@ -1,0 +1,16 @@
+{
+  "fy26_budget_revenue": 320.0,
+  "fy26_forecast_revenue": 265.0,
+  "fy26_budget_contribution": 50.0,
+  "fy26_forecast_contribution": 32.75,
+  "fy26_forecast_net_cash": -70.65,
+  "peak_cumulative_funding": 123.58333333333334,
+  "spillover_revenue": 55.0,
+  "fy26_bridge": {
+    "timing": -8.25,
+    "fee": 0.0,
+    "cost": -9.0
+  },
+  "full_horizon_forecast_contribution": 39.0,
+  "max_cash_bridge_error": 7.105427357601002e-15
+}

@@ -1,0 +1,7 @@
+id,title,budget_delivery_q,forecast_delivery_q,budget_fee,forecast_fee,budget_cost,forecast_cost,q1_cash_spend,participation_rate
+S01,Harbor Light,1,1,45,45,34,34,34,0.05
+S02,Northline,2,2,60,60,48,50,12,0.05
+S03,Signal House,2,3,50,48,40,43,8,0.05
+S04,Orchard Road,3,3,38,40,30,30,4,0.05
+S05,Glass Meridian,4,4,72,72,58,62,3,0.05
+S06,Last Platform,4,5,55,55,44,46,2,0.05

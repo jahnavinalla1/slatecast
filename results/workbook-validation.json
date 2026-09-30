@@ -1,0 +1,10 @@
+{
+  "engine": "Artifact spreadsheet engine; native Excel not tested",
+  "checks": [
+    "Independent Python revenue, contribution and funding reconciliation",
+    "All six cash and variance bridges reconcile",
+    "Delivery input perturbation updates forecast; Q1 unchanged; restored"
+  ],
+  "formula_error_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+  "restored_baseline": true
+}
