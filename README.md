@@ -1,6 +1,6 @@
-# When a TV delivery slips: revenue, profit and cash
+# SlateCast | TV Delivery & Cash Forecasting
 
-**Independent Sony Pictures FP&A case study · Excel + Python + SQL**
+**Independent entertainment FP&A case study · Excel + Python + SQL**
 
 A six-series model that answers: **Is a revenue miss a timing problem, a weaker deal, or a production-cost problem—and when does cash recover?**
 
